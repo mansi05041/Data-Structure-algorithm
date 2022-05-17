@@ -1,11 +1,6 @@
 // Stack_array.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // Apply Stack using array
-/*
-*  Name: Mansi Joshi
-* College Roll Number/ Year of Admission: 102/2019
-* Subject: Analysis of Allgorithm
-* Program Name: BSc Physical Science
-*/
+
 
 #include <iostream>
 using namespace std;
