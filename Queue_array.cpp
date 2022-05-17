@@ -1,9 +1,6 @@
 // Queue_array.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // Implement Queue using array
-/*Name : Mansi joshi
-* Roll no :102/2019
-* Course :Bsc Physical Science
-*/
+
 
 #include <iostream>
 #define size 20
