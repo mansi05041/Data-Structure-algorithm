@@ -1,10 +1,6 @@
 // queue_linked_list.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // implement queue data structure using linked list
-/*Name : mansi joshi
-* Roll no : 102/2019
-* Course : Bsc Physical science
-* Subject : Analysis of algorithm
-*/
+
 
 #include <iostream>
 using namespace std;
