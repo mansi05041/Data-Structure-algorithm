@@ -1,10 +1,6 @@
 // Double_linkly_list.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // Double linkly list implementation 
-/* Name : Mansi joshi
-*  Roll no : 2019/102
-*  Course : Bsc Physical Science
-*  Subject : Analysis of Algorithm
-*/
+
 
 #include <iostream>;
 using namespace std;
