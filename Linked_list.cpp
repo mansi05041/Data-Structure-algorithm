@@ -1,10 +1,6 @@
 // Linked_list.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // Linked list implementation using C++
-/* Name : Mansi joshi
-*  Roll no : 2019/102
-*  Course : Bsc physical Science
-*  Subject : Analyis of algorithm
-*/
+
 
 #include <iostream>
 using namespace std;
