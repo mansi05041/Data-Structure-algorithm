@@ -1,11 +1,7 @@
 // stack_using_linked_list.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // implementing stack using linked list
 
-/*Name : Mansi joshi
-* Roll no: 2019/102
-* Course : BSc Physical Science
-* Subject : Analysis of Algorithm
-*/
+
 
 #include <iostream>
 using namespace std;
