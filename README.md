@@ -14,13 +14,13 @@ Data Structures and algorithm codes implemented in c++
 
 ### Links
 
-- Doubly Linked List: [https://github.com/mansi05041/Data-Structure-algorithm/blob/main/Double_linkly_list.cpp]
-- Singly Linked List: [https://github.com/mansi05041/Data-Structure-algorithm/blob/main/Linked_list.cpp]
-- Stack implementation using Array: [https://github.com/mansi05041/Data-Structure-algorithm/blob/main/Stack_array.cpp]
-- Circular Linked List: [https://github.com/mansi05041/Data-Structure-algorithm/blob/main/circular_linked_list.cpp]
-- Queue implementation  using Linked List : [https://github.com/mansi05041/Data-Structure-algorithm/blob/main/queue_linked_list.cpp]
-- Stack implementation using Linked List : [https://github.com/mansi05041/Data-Structure-algorithm/blob/main/stack_using_linked_list.cpp]
-- Queue implementation using Array : [https://github.com/mansi05041/Data-Structure-algorithm/blob/main/Queue_array.cpp]
+- [Doubly Linked List](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/Double_linkly_list.cpp)
+- [Singly Linked List](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/Linked_list.cpp)
+- [Stack implementation using Array](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/Stack_array.cpp)
+- [Circular Linked List](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/circular_linked_list.cpp)
+- [Queue implementation using Linked List](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/queue_linked_list.cpp)
+- [Stack implementation using Linked List](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/stack_using_linked_list.cpp)
+- [Queue implementation using Array](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/Queue_array.cpp)
 
 ### Continued development
 - Graph
