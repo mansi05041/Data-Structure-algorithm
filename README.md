@@ -21,6 +21,7 @@ Data Structures and algorithm codes implemented in c++
 - [Queue implementation using Linked List](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/queue_linked_list.cpp)
 - [Stack implementation using Linked List](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/stack_using_linked_list.cpp)
 - [Queue implementation using Array](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/Queue_array.cpp)
+- [Binary Search Tree](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/Binary_search_tree.cpp)
 
 ### Continued development
 - Graph
