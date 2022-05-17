@@ -22,13 +22,13 @@ Data Structures and algorithm codes implemented in c++
 - [Stack implementation using Linked List](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/stack_using_linked_list.cpp)
 - [Queue implementation using Array](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/Queue_array.cpp)
 - [Binary Search Tree](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/Binary_search_tree.cpp)
+- [Adjacency Matrix](https://github.com/mansi05041/Data-Structure-algorithm/blob/main/Adjacency_Matrix.cpp)
 
 ### Continued development
 - Graph
 - Breadth First Search
 - Depth First Search
 - Topological Sort
-- Adjacency Matrix
 - Adjacency Linked list
 - Prim's Algorithm
 - Kruskal Algorithm
